@@ -36,7 +36,8 @@ Use `filter`, `map`, `reduce` and any other higher-order functions to analyze th
 4. Return the percentage of eruptions that caused mudflows (Agent_Code "M" for Mudflow).
 5. Return the most common type of volcano in the set.
 
---Extra Practice
+Extra Practice
+
 6. Return the number of eruptions when supplied a country as an argument.
 7. Return the average elevation of all eruptions.
 8. Return an array of types of volcanoes
