@@ -39,7 +39,7 @@ Use `filter`, `map`, `reduce` and any other higher-order functions to analyze th
 --Extra Practice
 6. Return the number of eruptions when supplied a country as an argument.
 7. Return the average elevation of all eruptions.
-8. Return an array of types of volcanoes.
+8. Return an array of types of volcanoes
 9. Return the percentage of eruptions that occurred in the Northern Hemisphere.
 10. Return the names of eruptions that occurred after 1900, that did NOT cause a mudflow, happened in the Southern Hemisphere, and had a VEI of 5.
 11. Return the names of eruptions that occurred at or above an elevation passed in as an argument.
